@@ -7,5 +7,4 @@ import com.example.demo.service.StudentService;
 @Service
 public class StudentServiceImpl implement StudentService{
 
-
 }
