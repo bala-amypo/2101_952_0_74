@@ -6,5 +6,4 @@ import com.example.demo.service.StudentService;
 public interface StudentService {
     Student poststudent(Student st);
 
-
 }
